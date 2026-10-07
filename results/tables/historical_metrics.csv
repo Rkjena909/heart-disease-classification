@@ -1,0 +1,7 @@
+model,accuracy,f1,recall,roc_auc
+LogisticRegression,0.8152,0.8396,0.8165,0.8379
+DecisionTree,0.7772,0.796,0.7339,0.787
+RandomForest,0.8533,0.872,0.844,0.9109
+SVM,0.8261,0.8505,0.8349,0.8232
+NeuralNetworkTensorFlow,0.8098,0.8372,0.8257,0.8334
+TunedRandomForest,0.8587,0.8796,0.8716,0.9118
