@@ -1,0 +1,49 @@
+{
+  "source_sha256": "574f2fa2b43012fa25fca4fcdb36bd7c6bccdd0af4242f6c0e4c8633c5a072ae",
+  "records": 920,
+  "columns": 16,
+  "target_counts": {
+    "0": 411,
+    "1": 509
+  },
+  "train_records": 736,
+  "holdout_records": 184,
+  "selected_model": "SVM",
+  "selection_metric": "training five-fold ROC-AUC",
+  "random_seed": 42,
+  "rf_search_candidates": 20,
+  "rf_best_params": {
+    "model__n_estimators": 100,
+    "model__min_samples_split": 5,
+    "model__min_samples_leaf": 2,
+    "model__max_features": "sqrt",
+    "model__max_depth": 5
+  },
+  "predictors": [
+    "age",
+    "trestbps",
+    "chol",
+    "thalch",
+    "oldpeak",
+    "ca",
+    "sex",
+    "cp",
+    "fbs",
+    "restecg",
+    "exang",
+    "slope",
+    "thal"
+  ],
+  "excluded_predictors": [
+    "id",
+    "dataset",
+    "num"
+  ],
+  "warnings": [],
+  "execution_notes": [
+    "Tuning and model selection share CV folds; CV is not nested and tuned CV scores may be optimistic.",
+    "Holdout metrics are from one fixed pooled split at threshold 0.5.",
+    "Site-transfer experiment is exploratory; configuration selection already used pooled training-site records.",
+    "NeuralNetworkMLP uses scikit-learn, not the original TensorFlow implementation."
+  ]
+}
