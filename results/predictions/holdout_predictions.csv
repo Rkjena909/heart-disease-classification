@@ -1,0 +1,1105 @@
+model,id,site,target,score,prediction
+LogisticRegression,515,Hungary,1,0.4445271178225262,0
+LogisticRegression,826,VA Long Beach,1,0.9494743284915266,1
+LogisticRegression,855,VA Long Beach,1,0.8653252311031703,1
+LogisticRegression,805,VA Long Beach,1,0.9281993126197275,1
+LogisticRegression,888,VA Long Beach,0,0.3933019898140828,0
+LogisticRegression,484,Hungary,0,0.6157304062574963,1
+LogisticRegression,274,Cleveland,0,0.6658516052788858,1
+LogisticRegression,541,Hungary,1,0.9447163998213911,1
+LogisticRegression,403,Hungary,0,0.15332334475416565,0
+LogisticRegression,602,Switzerland,1,0.3998215993424031,0
+LogisticRegression,279,Cleveland,1,0.1526226707359758,0
+LogisticRegression,290,Cleveland,0,0.05400729049354588,0
+LogisticRegression,242,Cleveland,0,0.00903939900796667,0
+LogisticRegression,89,Cleveland,0,0.11938164179633756,0
+LogisticRegression,718,Switzerland,0,0.9686745471533681,1
+LogisticRegression,669,Switzerland,1,0.9569160872250622,1
+LogisticRegression,95,Cleveland,0,0.04473994918531407,0
+LogisticRegression,633,Switzerland,1,0.8868277185810395,1
+LogisticRegression,195,Cleveland,0,0.33565976094270866,0
+LogisticRegression,598,Switzerland,1,0.23680832806663604,0
+LogisticRegression,728,VA Long Beach,0,0.9157607415956571,1
+LogisticRegression,708,Switzerland,1,0.9671818098610652,1
+LogisticRegression,331,Hungary,0,0.02862013102632074,0
+LogisticRegression,483,Hungary,0,0.12958766413419318,0
+LogisticRegression,273,Cleveland,1,0.9835815805015578,1
+LogisticRegression,591,Hungary,1,0.9096417285784772,1
+LogisticRegression,186,Cleveland,0,0.12720432219911312,0
+LogisticRegression,629,Switzerland,1,0.8490782565942567,1
+LogisticRegression,572,Hungary,1,0.24493362339488758,0
+LogisticRegression,309,Hungary,0,0.021356174748005004,0
+LogisticRegression,455,Hungary,0,0.2020252756670897,0
+LogisticRegression,269,Cleveland,1,0.3233118506606338,0
+LogisticRegression,468,Hungary,0,0.49332988288782387,0
+LogisticRegression,896,VA Long Beach,0,0.7089301818684068,1
+LogisticRegression,9,Cleveland,1,0.9247538475325537,1
+LogisticRegression,837,VA Long Beach,1,0.8086356428798905,1
+LogisticRegression,827,VA Long Beach,1,0.7673888774206569,1
+LogisticRegression,877,VA Long Beach,1,0.9119564264176342,1
+LogisticRegression,306,Hungary,0,0.05860412423432952,0
+LogisticRegression,575,Hungary,1,0.06127887413821908,0
+LogisticRegression,626,Switzerland,1,0.915558234106926,1
+LogisticRegression,2,Cleveland,1,0.9942828540608444,1
+LogisticRegression,581,Hungary,1,0.9586433734512454,1
+LogisticRegression,35,Cleveland,0,0.20636050320339064,0
+LogisticRegression,769,VA Long Beach,1,0.8005242919260063,1
+LogisticRegression,699,Switzerland,1,0.9815483219787448,1
+LogisticRegression,266,Cleveland,1,0.8537568529298276,1
+LogisticRegression,768,VA Long Beach,0,0.7922616285861049,1
+LogisticRegression,640,Switzerland,1,0.6764431831631429,1
+LogisticRegression,21,Cleveland,0,0.7718049258573517,1
+LogisticRegression,330,Hungary,0,0.2852496984856916,0
+LogisticRegression,180,Cleveland,0,0.6890405382958216,1
+LogisticRegression,270,Cleveland,0,0.11006466516729364,0
+LogisticRegression,453,Hungary,0,0.1218725844751066,0
+LogisticRegression,836,VA Long Beach,1,0.7536981834534543,1
+LogisticRegression,433,Hungary,0,0.1387485585208203,0
+LogisticRegression,644,Switzerland,1,0.965198470860199,1
+LogisticRegression,235,Cleveland,0,0.10745688724736364,0
+LogisticRegression,459,Hungary,0,0.4373758593712261,0
+LogisticRegression,292,Cleveland,0,0.02079848607922304,0
+LogisticRegression,220,Cleveland,0,0.2627302121717816,0
+LogisticRegression,878,VA Long Beach,1,0.8908552469888651,1
+LogisticRegression,404,Hungary,0,0.29250005013030905,0
+LogisticRegression,267,Cleveland,1,0.8689413970067089,1
+LogisticRegression,392,Hungary,0,0.0870103590754221,0
+LogisticRegression,814,VA Long Beach,1,0.6543034139450438,1
+LogisticRegression,532,Hungary,1,0.3329435525247986,0
+LogisticRegression,610,Switzerland,1,0.5668939633930258,1
+LogisticRegression,354,Hungary,0,0.08460360925303202,0
+LogisticRegression,88,Cleveland,0,0.06574509855007106,0
+LogisticRegression,34,Cleveland,0,0.7291088160074695,1
+LogisticRegression,666,Switzerland,1,0.5406768297230641,1
+LogisticRegression,383,Hungary,0,0.19768407164942772,0
+LogisticRegression,206,Cleveland,1,0.9794799483838158,1
+LogisticRegression,314,Hungary,0,0.10213463467074736,0
+LogisticRegression,611,Switzerland,1,0.90212839816905,1
+LogisticRegression,646,Switzerland,1,0.8277159401373017,1
+LogisticRegression,819,VA Long Beach,1,0.5901388523942105,1
+LogisticRegression,884,VA Long Beach,1,0.7930138734675723,1
+LogisticRegression,212,Cleveland,1,0.823719640030301,1
+LogisticRegression,754,VA Long Beach,1,0.5062539473974581,1
+LogisticRegression,698,Switzerland,1,0.8192232496097548,1
+LogisticRegression,194,Cleveland,1,0.9630224263681303,1
+LogisticRegression,328,Hungary,0,0.18289096623722215,0
+LogisticRegression,56,Cleveland,1,0.981045871410682,1
+LogisticRegression,82,Cleveland,0,0.27290572832926285,0
+LogisticRegression,497,Hungary,1,0.8294300808028313,1
+LogisticRegression,512,Hungary,1,0.8569731968594593,1
+LogisticRegression,435,Hungary,0,0.020568531524978135,0
+LogisticRegression,504,Hungary,1,0.8673040279463826,1
+LogisticRegression,397,Hungary,0,0.1089630576830426,0
+LogisticRegression,683,Switzerland,1,0.8985295872189066,1
+LogisticRegression,327,Hungary,0,0.15291190695022885,0
+LogisticRegression,446,Hungary,0,0.0738564686630644,0
+LogisticRegression,341,Hungary,0,0.30086668595838434,0
+LogisticRegression,765,VA Long Beach,1,0.7353039306433161,1
+LogisticRegression,556,Hungary,1,0.9136647548138052,1
+LogisticRegression,607,Switzerland,1,0.8942327687782128,1
+LogisticRegression,132,Cleveland,0,0.5915522654239382,1
+LogisticRegression,39,Cleveland,1,0.9470608379214098,1
+LogisticRegression,506,Hungary,1,0.7047769805169947,1
+LogisticRegression,537,Hungary,1,0.8257566640302333,1
+LogisticRegression,225,Cleveland,1,0.9110634676629591,1
+LogisticRegression,148,Cleveland,0,0.05836750949087667,0
+LogisticRegression,574,Hungary,1,0.92954587119234,1
+LogisticRegression,599,Switzerland,1,0.3923903357707808,0
+LogisticRegression,914,VA Long Beach,1,0.894048392262936,1
+LogisticRegression,898,VA Long Beach,1,0.7643046325681133,1
+LogisticRegression,90,Cleveland,0,0.04785310739019116,0
+LogisticRegression,125,Cleveland,1,0.6918778500359044,1
+LogisticRegression,623,Switzerland,1,0.5585174043757857,1
+LogisticRegression,772,VA Long Beach,0,0.18907598405721646,0
+LogisticRegression,161,Cleveland,0,0.13072223283075635,0
+LogisticRegression,735,VA Long Beach,1,0.9652359911757292,1
+LogisticRegression,590,Hungary,1,0.9779706314896183,1
+LogisticRegression,589,Hungary,1,0.775013784864136,1
+LogisticRegression,704,Switzerland,1,0.9200488084050944,1
+LogisticRegression,409,Hungary,0,0.0775564286035696,0
+LogisticRegression,375,Hungary,0,0.028172829951711942,0
+LogisticRegression,634,Switzerland,1,0.8711025838859597,1
+LogisticRegression,94,Cleveland,0,0.09240969956983144,0
+LogisticRegression,753,VA Long Beach,1,0.941479648541912,1
+LogisticRegression,329,Hungary,0,0.33599240851692025,0
+LogisticRegression,820,VA Long Beach,0,0.8972488861827668,1
+LogisticRegression,470,Hungary,0,0.2141007619969263,0
+LogisticRegression,110,Cleveland,1,0.7150568749849957,1
+LogisticRegression,410,Hungary,0,0.21613725391553731,0
+LogisticRegression,25,Cleveland,1,0.9941231511331656,1
+LogisticRegression,841,VA Long Beach,1,0.7610453028916123,1
+LogisticRegression,4,Cleveland,0,0.22468578290422322,0
+LogisticRegression,357,Hungary,0,0.1061418798492006,0
+LogisticRegression,166,Cleveland,0,0.7160745977320402,1
+LogisticRegression,479,Hungary,0,0.19656651131779893,0
+LogisticRegression,448,Hungary,0,0.05433870958663428,0
+LogisticRegression,287,Cleveland,1,0.9826568076671955,1
+LogisticRegression,208,Cleveland,1,0.9244324400097437,1
+LogisticRegression,499,Hungary,1,0.2860479188744928,0
+LogisticRegression,352,Hungary,0,0.09063549782030901,0
+LogisticRegression,821,VA Long Beach,1,0.5996318979179038,1
+LogisticRegression,774,VA Long Beach,0,0.35985004161002354,0
+LogisticRegression,714,Switzerland,1,0.8783209983743506,1
+LogisticRegression,766,VA Long Beach,1,0.9749544821246854,1
+LogisticRegression,911,VA Long Beach,0,0.3272345796013271,0
+LogisticRegression,345,Hungary,0,0.06124214029586991,0
+LogisticRegression,694,Switzerland,1,0.9439387680562752,1
+LogisticRegression,860,VA Long Beach,1,0.6950469785911008,1
+LogisticRegression,488,Hungary,0,0.7276192448227029,1
+LogisticRegression,485,Hungary,0,0.4542917785434337,0
+LogisticRegression,496,Hungary,1,0.2158353816770233,0
+LogisticRegression,530,Hungary,1,0.7283856640790153,1
+LogisticRegression,190,Cleveland,1,0.9737302340007661,1
+LogisticRegression,163,Cleveland,0,0.16557926296819828,0
+LogisticRegression,84,Cleveland,1,0.9003385974064672,1
+LogisticRegression,919,VA Long Beach,0,0.5756717092716988,1
+LogisticRegression,676,Switzerland,1,0.9284047911865545,1
+LogisticRegression,570,Hungary,1,0.9139685247223592,1
+LogisticRegression,399,Hungary,0,0.33734323539351246,0
+LogisticRegression,856,VA Long Beach,0,0.4621744034508236,0
+LogisticRegression,544,Hungary,1,0.7813266391859595,1
+LogisticRegression,906,VA Long Beach,1,0.31329001673744494,0
+LogisticRegression,391,Hungary,0,0.19100194676984972,0
+LogisticRegression,677,Switzerland,1,0.9664014714752592,1
+LogisticRegression,93,Cleveland,0,0.9646994073094834,1
+LogisticRegression,416,Hungary,0,0.10925337710978641,0
+LogisticRegression,285,Cleveland,1,0.7426444806965575,1
+LogisticRegression,197,Cleveland,0,0.7400085464825502,1
+LogisticRegression,716,Switzerland,1,0.9831583024515222,1
+LogisticRegression,171,Cleveland,1,0.9747990574244286,1
+LogisticRegression,413,Hungary,0,0.0449069453330672,0
+LogisticRegression,155,Cleveland,1,0.952756121062756,1
+LogisticRegression,237,Cleveland,1,0.9218876057153372,1
+LogisticRegression,443,Hungary,0,0.4856649150584732,0
+LogisticRegression,109,Cleveland,1,0.9886065475185881,1
+LogisticRegression,875,VA Long Beach,1,0.8782513399952542,1
+LogisticRegression,381,Hungary,0,0.4721359729048877,0
+LogisticRegression,510,Hungary,1,0.6066554755016802,1
+LogisticRegression,449,Hungary,0,0.0606310422748833,0
+LogisticRegression,102,Cleveland,0,0.07283262260304252,0
+LogisticRegression,776,VA Long Beach,1,0.9836741435104739,1
+LogisticRegression,60,Cleveland,0,0.7193842862174206,1
+LogisticRegression,816,VA Long Beach,1,0.9741513533089611,1
+LogisticRegression,632,Switzerland,1,0.8669684729158869,1
+LogisticRegression,741,VA Long Beach,1,0.7312556951211389,1
+LogisticRegression,283,Cleveland,1,0.9556113001803539,1
+DecisionTree,515,Hungary,1,1.0,1
+DecisionTree,826,VA Long Beach,1,1.0,1
+DecisionTree,855,VA Long Beach,1,0.0,0
+DecisionTree,805,VA Long Beach,1,1.0,1
+DecisionTree,888,VA Long Beach,0,0.0,0
+DecisionTree,484,Hungary,0,1.0,1
+DecisionTree,274,Cleveland,0,0.0,0
+DecisionTree,541,Hungary,1,1.0,1
+DecisionTree,403,Hungary,0,0.0,0
+DecisionTree,602,Switzerland,1,0.0,0
+DecisionTree,279,Cleveland,1,1.0,1
+DecisionTree,290,Cleveland,0,0.0,0
+DecisionTree,242,Cleveland,0,0.0,0
+DecisionTree,89,Cleveland,0,0.0,0
+DecisionTree,718,Switzerland,0,1.0,1
+DecisionTree,669,Switzerland,1,0.0,0
+DecisionTree,95,Cleveland,0,0.0,0
+DecisionTree,633,Switzerland,1,1.0,1
+DecisionTree,195,Cleveland,0,0.0,0
+DecisionTree,598,Switzerland,1,0.0,0
+DecisionTree,728,VA Long Beach,0,1.0,1
+DecisionTree,708,Switzerland,1,1.0,1
+DecisionTree,331,Hungary,0,0.0,0
+DecisionTree,483,Hungary,0,1.0,1
+DecisionTree,273,Cleveland,1,1.0,1
+DecisionTree,591,Hungary,1,1.0,1
+DecisionTree,186,Cleveland,0,0.0,0
+DecisionTree,629,Switzerland,1,1.0,1
+DecisionTree,572,Hungary,1,0.0,0
+DecisionTree,309,Hungary,0,0.0,0
+DecisionTree,455,Hungary,0,0.0,0
+DecisionTree,269,Cleveland,1,0.0,0
+DecisionTree,468,Hungary,0,1.0,1
+DecisionTree,896,VA Long Beach,0,0.0,0
+DecisionTree,9,Cleveland,1,1.0,1
+DecisionTree,837,VA Long Beach,1,1.0,1
+DecisionTree,827,VA Long Beach,1,1.0,1
+DecisionTree,877,VA Long Beach,1,1.0,1
+DecisionTree,306,Hungary,0,0.0,0
+DecisionTree,575,Hungary,1,1.0,1
+DecisionTree,626,Switzerland,1,1.0,1
+DecisionTree,2,Cleveland,1,1.0,1
+DecisionTree,581,Hungary,1,1.0,1
+DecisionTree,35,Cleveland,0,0.0,0
+DecisionTree,769,VA Long Beach,1,1.0,1
+DecisionTree,699,Switzerland,1,1.0,1
+DecisionTree,266,Cleveland,1,1.0,1
+DecisionTree,768,VA Long Beach,0,1.0,1
+DecisionTree,640,Switzerland,1,0.0,0
+DecisionTree,21,Cleveland,0,0.0,0
+DecisionTree,330,Hungary,0,0.0,0
+DecisionTree,180,Cleveland,0,1.0,1
+DecisionTree,270,Cleveland,0,0.0,0
+DecisionTree,453,Hungary,0,0.0,0
+DecisionTree,836,VA Long Beach,1,0.0,0
+DecisionTree,433,Hungary,0,0.0,0
+DecisionTree,644,Switzerland,1,1.0,1
+DecisionTree,235,Cleveland,0,0.0,0
+DecisionTree,459,Hungary,0,0.0,0
+DecisionTree,292,Cleveland,0,0.0,0
+DecisionTree,220,Cleveland,0,1.0,1
+DecisionTree,878,VA Long Beach,1,1.0,1
+DecisionTree,404,Hungary,0,0.0,0
+DecisionTree,267,Cleveland,1,1.0,1
+DecisionTree,392,Hungary,0,0.0,0
+DecisionTree,814,VA Long Beach,1,0.0,0
+DecisionTree,532,Hungary,1,0.0,0
+DecisionTree,610,Switzerland,1,1.0,1
+DecisionTree,354,Hungary,0,0.0,0
+DecisionTree,88,Cleveland,0,0.0,0
+DecisionTree,34,Cleveland,0,1.0,1
+DecisionTree,666,Switzerland,1,0.0,0
+DecisionTree,383,Hungary,0,0.0,0
+DecisionTree,206,Cleveland,1,0.0,0
+DecisionTree,314,Hungary,0,0.0,0
+DecisionTree,611,Switzerland,1,1.0,1
+DecisionTree,646,Switzerland,1,1.0,1
+DecisionTree,819,VA Long Beach,1,1.0,1
+DecisionTree,884,VA Long Beach,1,1.0,1
+DecisionTree,212,Cleveland,1,0.0,0
+DecisionTree,754,VA Long Beach,1,1.0,1
+DecisionTree,698,Switzerland,1,1.0,1
+DecisionTree,194,Cleveland,1,0.0,0
+DecisionTree,328,Hungary,0,0.0,0
+DecisionTree,56,Cleveland,1,1.0,1
+DecisionTree,82,Cleveland,0,0.0,0
+DecisionTree,497,Hungary,1,1.0,1
+DecisionTree,512,Hungary,1,1.0,1
+DecisionTree,435,Hungary,0,1.0,1
+DecisionTree,504,Hungary,1,1.0,1
+DecisionTree,397,Hungary,0,0.0,0
+DecisionTree,683,Switzerland,1,1.0,1
+DecisionTree,327,Hungary,0,0.0,0
+DecisionTree,446,Hungary,0,1.0,1
+DecisionTree,341,Hungary,0,1.0,1
+DecisionTree,765,VA Long Beach,1,1.0,1
+DecisionTree,556,Hungary,1,1.0,1
+DecisionTree,607,Switzerland,1,0.0,0
+DecisionTree,132,Cleveland,0,0.0,0
+DecisionTree,39,Cleveland,1,1.0,1
+DecisionTree,506,Hungary,1,1.0,1
+DecisionTree,537,Hungary,1,1.0,1
+DecisionTree,225,Cleveland,1,1.0,1
+DecisionTree,148,Cleveland,0,1.0,1
+DecisionTree,574,Hungary,1,1.0,1
+DecisionTree,599,Switzerland,1,1.0,1
+DecisionTree,914,VA Long Beach,1,1.0,1
+DecisionTree,898,VA Long Beach,1,1.0,1
+DecisionTree,90,Cleveland,0,0.0,0
+DecisionTree,125,Cleveland,1,0.0,0
+DecisionTree,623,Switzerland,1,1.0,1
+DecisionTree,772,VA Long Beach,0,0.0,0
+DecisionTree,161,Cleveland,0,0.0,0
+DecisionTree,735,VA Long Beach,1,1.0,1
+DecisionTree,590,Hungary,1,1.0,1
+DecisionTree,589,Hungary,1,1.0,1
+DecisionTree,704,Switzerland,1,1.0,1
+DecisionTree,409,Hungary,0,0.0,0
+DecisionTree,375,Hungary,0,0.0,0
+DecisionTree,634,Switzerland,1,1.0,1
+DecisionTree,94,Cleveland,0,0.0,0
+DecisionTree,753,VA Long Beach,1,1.0,1
+DecisionTree,329,Hungary,0,1.0,1
+DecisionTree,820,VA Long Beach,0,1.0,1
+DecisionTree,470,Hungary,0,0.0,0
+DecisionTree,110,Cleveland,1,1.0,1
+DecisionTree,410,Hungary,0,0.0,0
+DecisionTree,25,Cleveland,1,1.0,1
+DecisionTree,841,VA Long Beach,1,1.0,1
+DecisionTree,4,Cleveland,0,0.0,0
+DecisionTree,357,Hungary,0,0.0,0
+DecisionTree,166,Cleveland,0,1.0,1
+DecisionTree,479,Hungary,0,1.0,1
+DecisionTree,448,Hungary,0,0.0,0
+DecisionTree,287,Cleveland,1,1.0,1
+DecisionTree,208,Cleveland,1,1.0,1
+DecisionTree,499,Hungary,1,1.0,1
+DecisionTree,352,Hungary,0,0.0,0
+DecisionTree,821,VA Long Beach,1,1.0,1
+DecisionTree,774,VA Long Beach,0,0.0,0
+DecisionTree,714,Switzerland,1,1.0,1
+DecisionTree,766,VA Long Beach,1,1.0,1
+DecisionTree,911,VA Long Beach,0,0.0,0
+DecisionTree,345,Hungary,0,0.0,0
+DecisionTree,694,Switzerland,1,1.0,1
+DecisionTree,860,VA Long Beach,1,1.0,1
+DecisionTree,488,Hungary,0,1.0,1
+DecisionTree,485,Hungary,0,1.0,1
+DecisionTree,496,Hungary,1,0.0,0
+DecisionTree,530,Hungary,1,0.0,0
+DecisionTree,190,Cleveland,1,0.0,0
+DecisionTree,163,Cleveland,0,0.0,0
+DecisionTree,84,Cleveland,1,0.0,0
+DecisionTree,919,VA Long Beach,0,0.0,0
+DecisionTree,676,Switzerland,1,1.0,1
+DecisionTree,570,Hungary,1,1.0,1
+DecisionTree,399,Hungary,0,0.0,0
+DecisionTree,856,VA Long Beach,0,1.0,1
+DecisionTree,544,Hungary,1,1.0,1
+DecisionTree,906,VA Long Beach,1,1.0,1
+DecisionTree,391,Hungary,0,1.0,1
+DecisionTree,677,Switzerland,1,1.0,1
+DecisionTree,93,Cleveland,0,1.0,1
+DecisionTree,416,Hungary,0,0.0,0
+DecisionTree,285,Cleveland,1,1.0,1
+DecisionTree,197,Cleveland,0,1.0,1
+DecisionTree,716,Switzerland,1,1.0,1
+DecisionTree,171,Cleveland,1,1.0,1
+DecisionTree,413,Hungary,0,0.0,0
+DecisionTree,155,Cleveland,1,1.0,1
+DecisionTree,237,Cleveland,1,1.0,1
+DecisionTree,443,Hungary,0,0.0,0
+DecisionTree,109,Cleveland,1,1.0,1
+DecisionTree,875,VA Long Beach,1,1.0,1
+DecisionTree,381,Hungary,0,0.0,0
+DecisionTree,510,Hungary,1,0.0,0
+DecisionTree,449,Hungary,0,0.0,0
+DecisionTree,102,Cleveland,0,1.0,1
+DecisionTree,776,VA Long Beach,1,1.0,1
+DecisionTree,60,Cleveland,0,0.0,0
+DecisionTree,816,VA Long Beach,1,1.0,1
+DecisionTree,632,Switzerland,1,1.0,1
+DecisionTree,741,VA Long Beach,1,1.0,1
+DecisionTree,283,Cleveland,1,1.0,1
+RandomForest,515,Hungary,1,0.38,0
+RandomForest,826,VA Long Beach,1,0.92,1
+RandomForest,855,VA Long Beach,1,0.84,1
+RandomForest,805,VA Long Beach,1,0.98,1
+RandomForest,888,VA Long Beach,0,0.73,1
+RandomForest,484,Hungary,0,0.83,1
+RandomForest,274,Cleveland,0,0.32,0
+RandomForest,541,Hungary,1,0.99,1
+RandomForest,403,Hungary,0,0.02,0
+RandomForest,602,Switzerland,1,0.67,1
+RandomForest,279,Cleveland,1,0.32,0
+RandomForest,290,Cleveland,0,0.12,0
+RandomForest,242,Cleveland,0,0.01,0
+RandomForest,89,Cleveland,0,0.12,0
+RandomForest,718,Switzerland,0,0.83,1
+RandomForest,669,Switzerland,1,0.77,1
+RandomForest,95,Cleveland,0,0.2,0
+RandomForest,633,Switzerland,1,0.95,1
+RandomForest,195,Cleveland,0,0.16,0
+RandomForest,598,Switzerland,1,0.52,1
+RandomForest,728,VA Long Beach,0,0.81,1
+RandomForest,708,Switzerland,1,0.97,1
+RandomForest,331,Hungary,0,0.0,0
+RandomForest,483,Hungary,0,0.09,0
+RandomForest,273,Cleveland,1,0.98,1
+RandomForest,591,Hungary,1,0.93,1
+RandomForest,186,Cleveland,0,0.21,0
+RandomForest,629,Switzerland,1,0.86,1
+RandomForest,572,Hungary,1,0.37,0
+RandomForest,309,Hungary,0,0.01,0
+RandomForest,455,Hungary,0,0.18,0
+RandomForest,269,Cleveland,1,0.31,0
+RandomForest,468,Hungary,0,0.45,0
+RandomForest,896,VA Long Beach,0,0.38,0
+RandomForest,9,Cleveland,1,0.94,1
+RandomForest,837,VA Long Beach,1,0.52,1
+RandomForest,827,VA Long Beach,1,0.85,1
+RandomForest,877,VA Long Beach,1,0.72,1
+RandomForest,306,Hungary,0,0.02,0
+RandomForest,575,Hungary,1,0.08,0
+RandomForest,626,Switzerland,1,0.74,1
+RandomForest,2,Cleveland,1,0.95,1
+RandomForest,581,Hungary,1,0.95,1
+RandomForest,35,Cleveland,0,0.19,0
+RandomForest,769,VA Long Beach,1,0.9,1
+RandomForest,699,Switzerland,1,0.96,1
+RandomForest,266,Cleveland,1,0.89,1
+RandomForest,768,VA Long Beach,0,0.89,1
+RandomForest,640,Switzerland,1,0.54,1
+RandomForest,21,Cleveland,0,0.69,1
+RandomForest,330,Hungary,0,0.49,0
+RandomForest,180,Cleveland,0,0.24,0
+RandomForest,270,Cleveland,0,0.11,0
+RandomForest,453,Hungary,0,0.02,0
+RandomForest,836,VA Long Beach,1,0.91,1
+RandomForest,433,Hungary,0,0.02,0
+RandomForest,644,Switzerland,1,0.92,1
+RandomForest,235,Cleveland,0,0.15,0
+RandomForest,459,Hungary,0,0.41,0
+RandomForest,292,Cleveland,0,0.04,0
+RandomForest,220,Cleveland,0,0.34,0
+RandomForest,878,VA Long Beach,1,0.74,1
+RandomForest,404,Hungary,0,0.44,0
+RandomForest,267,Cleveland,1,0.75,1
+RandomForest,392,Hungary,0,0.02,0
+RandomForest,814,VA Long Beach,1,0.5,1
+RandomForest,532,Hungary,1,0.48,0
+RandomForest,610,Switzerland,1,0.84,1
+RandomForest,354,Hungary,0,0.04,0
+RandomForest,88,Cleveland,0,0.08,0
+RandomForest,34,Cleveland,0,0.61,1
+RandomForest,666,Switzerland,1,0.63,1
+RandomForest,383,Hungary,0,0.26,0
+RandomForest,206,Cleveland,1,0.81,1
+RandomForest,314,Hungary,0,0.07,0
+RandomForest,611,Switzerland,1,0.83,1
+RandomForest,646,Switzerland,1,0.92,1
+RandomForest,819,VA Long Beach,1,0.8,1
+RandomForest,884,VA Long Beach,1,0.94,1
+RandomForest,212,Cleveland,1,0.47,0
+RandomForest,754,VA Long Beach,1,0.69,1
+RandomForest,698,Switzerland,1,0.8,1
+RandomForest,194,Cleveland,1,0.54,1
+RandomForest,328,Hungary,0,0.05,0
+RandomForest,56,Cleveland,1,0.95,1
+RandomForest,82,Cleveland,0,0.2,0
+RandomForest,497,Hungary,1,0.73,1
+RandomForest,512,Hungary,1,0.96,1
+RandomForest,435,Hungary,0,0.1,0
+RandomForest,504,Hungary,1,0.86,1
+RandomForest,397,Hungary,0,0.01,0
+RandomForest,683,Switzerland,1,0.92,1
+RandomForest,327,Hungary,0,0.16,0
+RandomForest,446,Hungary,0,0.05,0
+RandomForest,341,Hungary,0,0.26,0
+RandomForest,765,VA Long Beach,1,0.89,1
+RandomForest,556,Hungary,1,0.96,1
+RandomForest,607,Switzerland,1,0.74,1
+RandomForest,132,Cleveland,0,0.43,0
+RandomForest,39,Cleveland,1,0.94,1
+RandomForest,506,Hungary,1,0.6,1
+RandomForest,537,Hungary,1,0.79,1
+RandomForest,225,Cleveland,1,0.7,1
+RandomForest,148,Cleveland,0,0.19,0
+RandomForest,574,Hungary,1,0.96,1
+RandomForest,599,Switzerland,1,0.81,1
+RandomForest,914,VA Long Beach,1,0.66,1
+RandomForest,898,VA Long Beach,1,0.84,1
+RandomForest,90,Cleveland,0,0.04,0
+RandomForest,125,Cleveland,1,0.47,0
+RandomForest,623,Switzerland,1,0.66,1
+RandomForest,772,VA Long Beach,0,0.31,0
+RandomForest,161,Cleveland,0,0.1,0
+RandomForest,735,VA Long Beach,1,0.95,1
+RandomForest,590,Hungary,1,0.85,1
+RandomForest,589,Hungary,1,0.79,1
+RandomForest,704,Switzerland,1,0.99,1
+RandomForest,409,Hungary,0,0.13,0
+RandomForest,375,Hungary,0,0.04,0
+RandomForest,634,Switzerland,1,0.93,1
+RandomForest,94,Cleveland,0,0.15,0
+RandomForest,753,VA Long Beach,1,0.93,1
+RandomForest,329,Hungary,0,0.44,0
+RandomForest,820,VA Long Beach,0,0.82,1
+RandomForest,470,Hungary,0,0.35,0
+RandomForest,110,Cleveland,1,0.72,1
+RandomForest,410,Hungary,0,0.2,0
+RandomForest,25,Cleveland,1,0.98,1
+RandomForest,841,VA Long Beach,1,0.77,1
+RandomForest,4,Cleveland,0,0.46,0
+RandomForest,357,Hungary,0,0.0,0
+RandomForest,166,Cleveland,0,0.73,1
+RandomForest,479,Hungary,0,0.15,0
+RandomForest,448,Hungary,0,0.02,0
+RandomForest,287,Cleveland,1,0.9,1
+RandomForest,208,Cleveland,1,0.92,1
+RandomForest,499,Hungary,1,0.35,0
+RandomForest,352,Hungary,0,0.09,0
+RandomForest,821,VA Long Beach,1,0.62,1
+RandomForest,774,VA Long Beach,0,0.47,0
+RandomForest,714,Switzerland,1,0.92,1
+RandomForest,766,VA Long Beach,1,0.99,1
+RandomForest,911,VA Long Beach,0,0.28,0
+RandomForest,345,Hungary,0,0.0,0
+RandomForest,694,Switzerland,1,0.87,1
+RandomForest,860,VA Long Beach,1,0.92,1
+RandomForest,488,Hungary,0,0.8,1
+RandomForest,485,Hungary,0,0.52,1
+RandomForest,496,Hungary,1,0.31,0
+RandomForest,530,Hungary,1,0.8,1
+RandomForest,190,Cleveland,1,0.82,1
+RandomForest,163,Cleveland,0,0.05,0
+RandomForest,84,Cleveland,1,0.59,1
+RandomForest,919,VA Long Beach,0,0.73,1
+RandomForest,676,Switzerland,1,0.92,1
+RandomForest,570,Hungary,1,0.85,1
+RandomForest,399,Hungary,0,0.11,0
+RandomForest,856,VA Long Beach,0,0.4,0
+RandomForest,544,Hungary,1,0.8,1
+RandomForest,906,VA Long Beach,1,0.6,1
+RandomForest,391,Hungary,0,0.53,1
+RandomForest,677,Switzerland,1,0.86,1
+RandomForest,93,Cleveland,0,0.91,1
+RandomForest,416,Hungary,0,0.01,0
+RandomForest,285,Cleveland,1,0.65,1
+RandomForest,197,Cleveland,0,0.65,1
+RandomForest,716,Switzerland,1,0.85,1
+RandomForest,171,Cleveland,1,0.85,1
+RandomForest,413,Hungary,0,0.0,0
+RandomForest,155,Cleveland,1,0.94,1
+RandomForest,237,Cleveland,1,0.93,1
+RandomForest,443,Hungary,0,0.41,0
+RandomForest,109,Cleveland,1,0.96,1
+RandomForest,875,VA Long Beach,1,0.92,1
+RandomForest,381,Hungary,0,0.14,0
+RandomForest,510,Hungary,1,0.47,0
+RandomForest,449,Hungary,0,0.0,0
+RandomForest,102,Cleveland,0,0.3,0
+RandomForest,776,VA Long Beach,1,0.88,1
+RandomForest,60,Cleveland,0,0.63,1
+RandomForest,816,VA Long Beach,1,0.96,1
+RandomForest,632,Switzerland,1,0.84,1
+RandomForest,741,VA Long Beach,1,0.93,1
+RandomForest,283,Cleveland,1,0.97,1
+SVM,515,Hungary,1,0.2091454531434739,0
+SVM,826,VA Long Beach,1,0.8591421422484892,1
+SVM,855,VA Long Beach,1,0.8350380097253711,1
+SVM,805,VA Long Beach,1,0.9120569802606433,1
+SVM,888,VA Long Beach,0,0.5068038812825122,1
+SVM,484,Hungary,0,0.8537001969736615,1
+SVM,274,Cleveland,0,0.660033721524866,1
+SVM,541,Hungary,1,0.9660376358766043,1
+SVM,403,Hungary,0,0.04289066356102439,0
+SVM,602,Switzerland,1,0.8017748352374477,1
+SVM,279,Cleveland,1,0.12928691560953628,0
+SVM,290,Cleveland,0,0.03824679895860233,0
+SVM,242,Cleveland,0,0.015053014746226468,0
+SVM,89,Cleveland,0,0.047591659365358134,0
+SVM,718,Switzerland,0,0.9093278415369919,1
+SVM,669,Switzerland,1,0.8294819629495821,1
+SVM,95,Cleveland,0,0.03378756992443692,0
+SVM,633,Switzerland,1,0.9232701094837542,1
+SVM,195,Cleveland,0,0.29179377231791614,0
+SVM,598,Switzerland,1,0.7287184354291419,1
+SVM,728,VA Long Beach,0,0.8874416550101304,1
+SVM,708,Switzerland,1,0.9107270767617269,1
+SVM,331,Hungary,0,0.03475760988223134,0
+SVM,483,Hungary,0,0.07956226959592164,0
+SVM,273,Cleveland,1,0.9583565649742789,1
+SVM,591,Hungary,1,0.954677478604725,1
+SVM,186,Cleveland,0,0.1814587008167506,0
+SVM,629,Switzerland,1,0.9017596683086813,1
+SVM,572,Hungary,1,0.1622769161281519,0
+SVM,309,Hungary,0,0.1260601596209099,0
+SVM,455,Hungary,0,0.14252910658545145,0
+SVM,269,Cleveland,1,0.21681479440553786,0
+SVM,468,Hungary,0,0.4323712099471475,0
+SVM,896,VA Long Beach,0,0.5892302710942102,1
+SVM,9,Cleveland,1,0.9496980493829997,1
+SVM,837,VA Long Beach,1,0.8074359941270308,1
+SVM,827,VA Long Beach,1,0.8997266669116932,1
+SVM,877,VA Long Beach,1,0.8716282135121864,1
+SVM,306,Hungary,0,0.06782277644856027,0
+SVM,575,Hungary,1,0.029754866610868794,0
+SVM,626,Switzerland,1,0.9110597755071852,1
+SVM,2,Cleveland,1,0.8917457251953559,1
+SVM,581,Hungary,1,0.9509404240377106,1
+SVM,35,Cleveland,0,0.08677969698954237,0
+SVM,769,VA Long Beach,1,0.8884626512485015,1
+SVM,699,Switzerland,1,0.9458587165973742,1
+SVM,266,Cleveland,1,0.9410790143895046,1
+SVM,768,VA Long Beach,0,0.852943008155147,1
+SVM,640,Switzerland,1,0.7427769652186532,1
+SVM,21,Cleveland,0,0.553630118937608,1
+SVM,330,Hungary,0,0.2215021830193236,0
+SVM,180,Cleveland,0,0.6349275995269692,1
+SVM,270,Cleveland,0,0.03348121234559606,0
+SVM,453,Hungary,0,0.03964481760473499,0
+SVM,836,VA Long Beach,1,0.9484249010382553,1
+SVM,433,Hungary,0,0.04187355947730229,0
+SVM,644,Switzerland,1,0.931007762455288,1
+SVM,235,Cleveland,0,0.056765067343168,0
+SVM,459,Hungary,0,0.5678087827137522,1
+SVM,292,Cleveland,0,0.017878869335525037,0
+SVM,220,Cleveland,0,0.1446724951274085,0
+SVM,878,VA Long Beach,1,0.9314015944985714,1
+SVM,404,Hungary,0,0.2755616256835698,0
+SVM,267,Cleveland,1,0.826853194827337,1
+SVM,392,Hungary,0,0.040156620125754744,0
+SVM,814,VA Long Beach,1,0.5672144303062583,1
+SVM,532,Hungary,1,0.6563554520834539,1
+SVM,610,Switzerland,1,0.9105332567981009,1
+SVM,354,Hungary,0,0.038476109016815044,0
+SVM,88,Cleveland,0,0.037228036986811756,0
+SVM,34,Cleveland,0,0.6386228425172872,1
+SVM,666,Switzerland,1,0.868913463332914,1
+SVM,383,Hungary,0,0.12050955243975907,0
+SVM,206,Cleveland,1,0.9031517660684988,1
+SVM,314,Hungary,0,0.032863632991745016,0
+SVM,611,Switzerland,1,0.861953294665107,1
+SVM,646,Switzerland,1,0.9060637402469279,1
+SVM,819,VA Long Beach,1,0.8286567451695046,1
+SVM,884,VA Long Beach,1,0.9570096775536879,1
+SVM,212,Cleveland,1,0.7375982093249908,1
+SVM,754,VA Long Beach,1,0.7400220052896015,1
+SVM,698,Switzerland,1,0.853340114738982,1
+SVM,194,Cleveland,1,0.6855166682816591,1
+SVM,328,Hungary,0,0.07972577414324619,0
+SVM,56,Cleveland,1,0.9728427899888459,1
+SVM,82,Cleveland,0,0.07754422059023738,0
+SVM,497,Hungary,1,0.8523413998134316,1
+SVM,512,Hungary,1,0.8341289340347681,1
+SVM,435,Hungary,0,0.24182138610847176,0
+SVM,504,Hungary,1,0.9141744685559265,1
+SVM,397,Hungary,0,0.05676651076782525,0
+SVM,683,Switzerland,1,0.9343196650706048,1
+SVM,327,Hungary,0,0.13916047936643572,0
+SVM,446,Hungary,0,0.04136618435069298,0
+SVM,341,Hungary,0,0.14918873817662315,0
+SVM,765,VA Long Beach,1,0.890422287856558,1
+SVM,556,Hungary,1,0.9309603490980003,1
+SVM,607,Switzerland,1,0.8542406650777992,1
+SVM,132,Cleveland,0,0.7061781953426123,1
+SVM,39,Cleveland,1,0.9774084004996989,1
+SVM,506,Hungary,1,0.6343231637148348,1
+SVM,537,Hungary,1,0.8423128026073128,1
+SVM,225,Cleveland,1,0.6873021668352743,1
+SVM,148,Cleveland,0,0.05112682298323174,0
+SVM,574,Hungary,1,0.9573289364379841,1
+SVM,599,Switzerland,1,0.8583941244256708,1
+SVM,914,VA Long Beach,1,0.7616442051769957,1
+SVM,898,VA Long Beach,1,0.8028879572840414,1
+SVM,90,Cleveland,0,0.011603007255426467,0
+SVM,125,Cleveland,1,0.626258537012511,1
+SVM,623,Switzerland,1,0.6631159204182437,1
+SVM,772,VA Long Beach,0,0.416026542970222,0
+SVM,161,Cleveland,0,0.162400964295788,0
+SVM,735,VA Long Beach,1,0.941343234059554,1
+SVM,590,Hungary,1,0.9214483847348071,1
+SVM,589,Hungary,1,0.8001371481042722,1
+SVM,704,Switzerland,1,0.9150783905401104,1
+SVM,409,Hungary,0,0.07558576209984814,0
+SVM,375,Hungary,0,0.01764483393779954,0
+SVM,634,Switzerland,1,0.8751691758568327,1
+SVM,94,Cleveland,0,0.13835478822590952,0
+SVM,753,VA Long Beach,1,0.935218777749824,1
+SVM,329,Hungary,0,0.284644978037556,0
+SVM,820,VA Long Beach,0,0.943490564987845,1
+SVM,470,Hungary,0,0.3230079256181393,0
+SVM,110,Cleveland,1,0.8229548928342114,1
+SVM,410,Hungary,0,0.06598102195444229,0
+SVM,25,Cleveland,1,0.976317437096825,1
+SVM,841,VA Long Beach,1,0.901372120919109,1
+SVM,4,Cleveland,0,0.3926665033338737,0
+SVM,357,Hungary,0,0.03668004536910043,0
+SVM,166,Cleveland,0,0.6448025266038805,1
+SVM,479,Hungary,0,0.12669649835994654,0
+SVM,448,Hungary,0,0.06865334788713573,0
+SVM,287,Cleveland,1,0.8993123891341163,1
+SVM,208,Cleveland,1,0.9029008473938107,1
+SVM,499,Hungary,1,0.2498677762468413,0
+SVM,352,Hungary,0,0.06027325625229516,0
+SVM,821,VA Long Beach,1,0.5400800288610713,1
+SVM,774,VA Long Beach,0,0.38584637605988503,0
+SVM,714,Switzerland,1,0.8183207857739835,1
+SVM,766,VA Long Beach,1,0.9048549757192502,1
+SVM,911,VA Long Beach,0,0.2935415798142078,0
+SVM,345,Hungary,0,0.0318031591388939,0
+SVM,694,Switzerland,1,0.9192885731950764,1
+SVM,860,VA Long Beach,1,0.8161664153351751,1
+SVM,488,Hungary,0,0.7541821922775604,1
+SVM,485,Hungary,0,0.5374469230678137,1
+SVM,496,Hungary,1,0.4491297625638887,0
+SVM,530,Hungary,1,0.8019608926819891,1
+SVM,190,Cleveland,1,0.9162192238054899,1
+SVM,163,Cleveland,0,0.09786655865819247,0
+SVM,84,Cleveland,1,0.8660211349526382,1
+SVM,919,VA Long Beach,0,0.8424807952252104,1
+SVM,676,Switzerland,1,0.8714900686535609,1
+SVM,570,Hungary,1,0.8412965932845912,1
+SVM,399,Hungary,0,0.1455992459268439,0
+SVM,856,VA Long Beach,0,0.537665470260408,1
+SVM,544,Hungary,1,0.8090806645051097,1
+SVM,906,VA Long Beach,1,0.36024966037410155,0
+SVM,391,Hungary,0,0.13702698725564683,0
+SVM,677,Switzerland,1,0.93092880090257,1
+SVM,93,Cleveland,0,0.881059356595479,1
+SVM,416,Hungary,0,0.02381836526248804,0
+SVM,285,Cleveland,1,0.5754986778363825,1
+SVM,197,Cleveland,0,0.7986020613245455,1
+SVM,716,Switzerland,1,0.8699429391156913,1
+SVM,171,Cleveland,1,0.9267778342709373,1
+SVM,413,Hungary,0,0.024036960307502,0
+SVM,155,Cleveland,1,0.9033737703228536,1
+SVM,237,Cleveland,1,0.8944412896653624,1
+SVM,443,Hungary,0,0.21379018413745718,0
+SVM,109,Cleveland,1,0.9603052064831471,1
+SVM,875,VA Long Beach,1,0.8994260154159767,1
+SVM,381,Hungary,0,0.14735391096192327,0
+SVM,510,Hungary,1,0.6139699951411118,1
+SVM,449,Hungary,0,0.026054132318575313,0
+SVM,102,Cleveland,0,0.1142433680115079,0
+SVM,776,VA Long Beach,1,0.9452967503284758,1
+SVM,60,Cleveland,0,0.6951991940850082,1
+SVM,816,VA Long Beach,1,0.9595892099520126,1
+SVM,632,Switzerland,1,0.8537641552723513,1
+SVM,741,VA Long Beach,1,0.8846547008193405,1
+SVM,283,Cleveland,1,0.9298947131637307,1
+NeuralNetworkMLP,515,Hungary,1,0.3751024820006072,0
+NeuralNetworkMLP,826,VA Long Beach,1,0.5447761174509347,1
+NeuralNetworkMLP,855,VA Long Beach,1,0.5998969485316336,1
+NeuralNetworkMLP,805,VA Long Beach,1,0.5447761174509347,1
+NeuralNetworkMLP,888,VA Long Beach,0,0.46294502895167955,0
+NeuralNetworkMLP,484,Hungary,0,0.48238047838421394,0
+NeuralNetworkMLP,274,Cleveland,0,0.532581320350816,1
+NeuralNetworkMLP,541,Hungary,1,0.5447761174509347,1
+NeuralNetworkMLP,403,Hungary,0,0.42418932108343016,0
+NeuralNetworkMLP,602,Switzerland,1,0.43586701776894166,0
+NeuralNetworkMLP,279,Cleveland,1,0.46810329771076753,0
+NeuralNetworkMLP,290,Cleveland,0,0.4210777928856981,0
+NeuralNetworkMLP,242,Cleveland,0,0.34700387629566726,0
+NeuralNetworkMLP,89,Cleveland,0,0.35681813112072475,0
+NeuralNetworkMLP,718,Switzerland,0,0.7437100883375581,1
+NeuralNetworkMLP,669,Switzerland,1,0.6148763294670646,1
+NeuralNetworkMLP,95,Cleveland,0,0.411347243617155,0
+NeuralNetworkMLP,633,Switzerland,1,0.49972326541743306,0
+NeuralNetworkMLP,195,Cleveland,0,0.5217723692731658,1
+NeuralNetworkMLP,598,Switzerland,1,0.46153346883595214,0
+NeuralNetworkMLP,728,VA Long Beach,0,0.6607179495360957,1
+NeuralNetworkMLP,708,Switzerland,1,0.6541644853801301,1
+NeuralNetworkMLP,331,Hungary,0,0.37207633801487716,0
+NeuralNetworkMLP,483,Hungary,0,0.375629414036843,0
+NeuralNetworkMLP,273,Cleveland,1,0.5416143143005082,1
+NeuralNetworkMLP,591,Hungary,1,0.5447761174509347,1
+NeuralNetworkMLP,186,Cleveland,0,0.47236037732231406,0
+NeuralNetworkMLP,629,Switzerland,1,0.5226145604054299,1
+NeuralNetworkMLP,572,Hungary,1,0.4073879715343253,0
+NeuralNetworkMLP,309,Hungary,0,0.366529367350288,0
+NeuralNetworkMLP,455,Hungary,0,0.5888197013891895,1
+NeuralNetworkMLP,269,Cleveland,1,0.38314483563871504,0
+NeuralNetworkMLP,468,Hungary,0,0.3930250148410096,0
+NeuralNetworkMLP,896,VA Long Beach,0,0.44981771241069896,0
+NeuralNetworkMLP,9,Cleveland,1,0.550848144205375,1
+NeuralNetworkMLP,837,VA Long Beach,1,0.47576705047935364,0
+NeuralNetworkMLP,827,VA Long Beach,1,0.5447761174509347,1
+NeuralNetworkMLP,877,VA Long Beach,1,0.5723890086067468,1
+NeuralNetworkMLP,306,Hungary,0,0.41244751946711955,0
+NeuralNetworkMLP,575,Hungary,1,0.38732930903376994,0
+NeuralNetworkMLP,626,Switzerland,1,0.5447761174509347,1
+NeuralNetworkMLP,2,Cleveland,1,0.7043162939654234,1
+NeuralNetworkMLP,581,Hungary,1,0.5681343476140083,1
+NeuralNetworkMLP,35,Cleveland,0,0.4422263942795261,0
+NeuralNetworkMLP,769,VA Long Beach,1,0.5560649927807735,1
+NeuralNetworkMLP,699,Switzerland,1,0.5965897432691097,1
+NeuralNetworkMLP,266,Cleveland,1,0.5447761174509347,1
+NeuralNetworkMLP,768,VA Long Beach,0,0.5447761174509347,1
+NeuralNetworkMLP,640,Switzerland,1,0.5447761174509347,1
+NeuralNetworkMLP,21,Cleveland,0,0.47819991491069064,0
+NeuralNetworkMLP,330,Hungary,0,0.4053472446567122,0
+NeuralNetworkMLP,180,Cleveland,0,0.37934680611323796,0
+NeuralNetworkMLP,270,Cleveland,0,0.4352502616783064,0
+NeuralNetworkMLP,453,Hungary,0,0.3796713191453086,0
+NeuralNetworkMLP,836,VA Long Beach,1,0.4106550109849013,0
+NeuralNetworkMLP,433,Hungary,0,0.3845505149203703,0
+NeuralNetworkMLP,644,Switzerland,1,0.5447761174509347,1
+NeuralNetworkMLP,235,Cleveland,0,0.49846355217876026,0
+NeuralNetworkMLP,459,Hungary,0,0.4842390880620197,0
+NeuralNetworkMLP,292,Cleveland,0,0.38539194572625246,0
+NeuralNetworkMLP,220,Cleveland,0,0.3063214202796075,0
+NeuralNetworkMLP,878,VA Long Beach,1,0.5594163049717329,1
+NeuralNetworkMLP,404,Hungary,0,0.4894184098775174,0
+NeuralNetworkMLP,267,Cleveland,1,0.4867803989690844,0
+NeuralNetworkMLP,392,Hungary,0,0.375976905915934,0
+NeuralNetworkMLP,814,VA Long Beach,1,0.4662350978779609,0
+NeuralNetworkMLP,532,Hungary,1,0.4826346435286688,0
+NeuralNetworkMLP,610,Switzerland,1,0.5350618479466023,1
+NeuralNetworkMLP,354,Hungary,0,0.4216081087739247,0
+NeuralNetworkMLP,88,Cleveland,0,0.47426331011911715,0
+NeuralNetworkMLP,34,Cleveland,0,0.44413647967466113,0
+NeuralNetworkMLP,666,Switzerland,1,0.4043573031103015,0
+NeuralNetworkMLP,383,Hungary,0,0.4431994630102636,0
+NeuralNetworkMLP,206,Cleveland,1,0.396549478759478,0
+NeuralNetworkMLP,314,Hungary,0,0.4356151489824259,0
+NeuralNetworkMLP,611,Switzerland,1,0.5447761174509347,1
+NeuralNetworkMLP,646,Switzerland,1,0.5056144173009058,1
+NeuralNetworkMLP,819,VA Long Beach,1,0.5080559889752696,1
+NeuralNetworkMLP,884,VA Long Beach,1,0.42619556991195234,0
+NeuralNetworkMLP,212,Cleveland,1,0.45608860058328954,0
+NeuralNetworkMLP,754,VA Long Beach,1,0.2708586298067063,0
+NeuralNetworkMLP,698,Switzerland,1,0.5901262889442326,1
+NeuralNetworkMLP,194,Cleveland,1,0.5859360102835653,1
+NeuralNetworkMLP,328,Hungary,0,0.4308604144681751,0
+NeuralNetworkMLP,56,Cleveland,1,0.5447761174509347,1
+NeuralNetworkMLP,82,Cleveland,0,0.39473176052306813,0
+NeuralNetworkMLP,497,Hungary,1,0.5217828731982936,1
+NeuralNetworkMLP,512,Hungary,1,0.5308970472429704,1
+NeuralNetworkMLP,435,Hungary,0,0.37446009178286416,0
+NeuralNetworkMLP,504,Hungary,1,0.5370393517107278,1
+NeuralNetworkMLP,397,Hungary,0,0.40822928015817583,0
+NeuralNetworkMLP,683,Switzerland,1,0.5447761174509347,1
+NeuralNetworkMLP,327,Hungary,0,0.48284469650324363,0
+NeuralNetworkMLP,446,Hungary,0,0.3907506051503068,0
+NeuralNetworkMLP,341,Hungary,0,0.484080632451126,0
+NeuralNetworkMLP,765,VA Long Beach,1,0.4126585594999145,0
+NeuralNetworkMLP,556,Hungary,1,0.5447761174509347,1
+NeuralNetworkMLP,607,Switzerland,1,0.5447761174509347,1
+NeuralNetworkMLP,132,Cleveland,0,0.4252215065156475,0
+NeuralNetworkMLP,39,Cleveland,1,0.5435084460614765,1
+NeuralNetworkMLP,506,Hungary,1,0.5107330007757257,1
+NeuralNetworkMLP,537,Hungary,1,0.5347214151158686,1
+NeuralNetworkMLP,225,Cleveland,1,0.3249042570981963,0
+NeuralNetworkMLP,148,Cleveland,0,0.3593876453162111,0
+NeuralNetworkMLP,574,Hungary,1,0.5345626281592254,1
+NeuralNetworkMLP,599,Switzerland,1,0.4238541114989477,0
+NeuralNetworkMLP,914,VA Long Beach,1,0.5798068631062903,1
+NeuralNetworkMLP,898,VA Long Beach,1,0.5010828965021147,1
+NeuralNetworkMLP,90,Cleveland,0,0.39951942748391384,0
+NeuralNetworkMLP,125,Cleveland,1,0.3548387134596818,0
+NeuralNetworkMLP,623,Switzerland,1,0.5873074659684979,1
+NeuralNetworkMLP,772,VA Long Beach,0,0.5293202913084529,1
+NeuralNetworkMLP,161,Cleveland,0,0.3990086399374511,0
+NeuralNetworkMLP,735,VA Long Beach,1,0.5185557640256068,1
+NeuralNetworkMLP,590,Hungary,1,0.5447761174509347,1
+NeuralNetworkMLP,589,Hungary,1,0.5085393241183498,1
+NeuralNetworkMLP,704,Switzerland,1,0.5447761174509347,1
+NeuralNetworkMLP,409,Hungary,0,0.3599329832820647,0
+NeuralNetworkMLP,375,Hungary,0,0.3473822860284796,0
+NeuralNetworkMLP,634,Switzerland,1,0.5447761174509347,1
+NeuralNetworkMLP,94,Cleveland,0,0.3920038029983777,0
+NeuralNetworkMLP,753,VA Long Beach,1,0.5407427837234416,1
+NeuralNetworkMLP,329,Hungary,0,0.39298366020409303,0
+NeuralNetworkMLP,820,VA Long Beach,0,0.4261401644706631,0
+NeuralNetworkMLP,470,Hungary,0,0.4501626407682151,0
+NeuralNetworkMLP,110,Cleveland,1,0.5006970309717106,1
+NeuralNetworkMLP,410,Hungary,0,0.40400474680315845,0
+NeuralNetworkMLP,25,Cleveland,1,0.5790113369527402,1
+NeuralNetworkMLP,841,VA Long Beach,1,0.4949468675908985,0
+NeuralNetworkMLP,4,Cleveland,0,0.458010964000433,0
+NeuralNetworkMLP,357,Hungary,0,0.42119591989197086,0
+NeuralNetworkMLP,166,Cleveland,0,0.533378624146091,1
+NeuralNetworkMLP,479,Hungary,0,0.446384352165696,0
+NeuralNetworkMLP,448,Hungary,0,0.38586622714103525,0
+NeuralNetworkMLP,287,Cleveland,1,0.6071556017285523,1
+NeuralNetworkMLP,208,Cleveland,1,0.5340790094898131,1
+NeuralNetworkMLP,499,Hungary,1,0.38365275821947736,0
+NeuralNetworkMLP,352,Hungary,0,0.42074773749424776,0
+NeuralNetworkMLP,821,VA Long Beach,1,0.5074240080889669,1
+NeuralNetworkMLP,774,VA Long Beach,0,0.4231161041579053,0
+NeuralNetworkMLP,714,Switzerland,1,0.5711172613400985,1
+NeuralNetworkMLP,766,VA Long Beach,1,0.6473027572267008,1
+NeuralNetworkMLP,911,VA Long Beach,0,0.48372591526364384,0
+NeuralNetworkMLP,345,Hungary,0,0.4016228305714568,0
+NeuralNetworkMLP,694,Switzerland,1,0.5447761174509347,1
+NeuralNetworkMLP,860,VA Long Beach,1,0.5500894663624654,1
+NeuralNetworkMLP,488,Hungary,0,0.5082938236952667,1
+NeuralNetworkMLP,485,Hungary,0,0.6176474384487285,1
+NeuralNetworkMLP,496,Hungary,1,0.4443427005512364,0
+NeuralNetworkMLP,530,Hungary,1,0.4624011265568543,0
+NeuralNetworkMLP,190,Cleveland,1,0.6561096338039282,1
+NeuralNetworkMLP,163,Cleveland,0,0.3953942886116486,0
+NeuralNetworkMLP,84,Cleveland,1,0.5840273240156956,1
+NeuralNetworkMLP,919,VA Long Beach,0,0.40648634097769887,0
+NeuralNetworkMLP,676,Switzerland,1,0.6607685247259236,1
+NeuralNetworkMLP,570,Hungary,1,0.5925486927402559,1
+NeuralNetworkMLP,399,Hungary,0,0.4123245192173707,0
+NeuralNetworkMLP,856,VA Long Beach,0,0.5201039614987166,1
+NeuralNetworkMLP,544,Hungary,1,0.5158007022127746,1
+NeuralNetworkMLP,906,VA Long Beach,1,0.4192058519854971,0
+NeuralNetworkMLP,391,Hungary,0,0.41913880730457004,0
+NeuralNetworkMLP,677,Switzerland,1,0.571766621515217,1
+NeuralNetworkMLP,93,Cleveland,0,0.5141333767769218,1
+NeuralNetworkMLP,416,Hungary,0,0.38513260410018524,0
+NeuralNetworkMLP,285,Cleveland,1,0.5897848590846587,1
+NeuralNetworkMLP,197,Cleveland,0,0.5011894068332734,1
+NeuralNetworkMLP,716,Switzerland,1,0.6639851035212436,1
+NeuralNetworkMLP,171,Cleveland,1,0.6852803498296647,1
+NeuralNetworkMLP,413,Hungary,0,0.3541977272481825,0
+NeuralNetworkMLP,155,Cleveland,1,0.5817674731634211,1
+NeuralNetworkMLP,237,Cleveland,1,0.5447761174509347,1
+NeuralNetworkMLP,443,Hungary,0,0.3764947649233048,0
+NeuralNetworkMLP,109,Cleveland,1,0.544492865462416,1
+NeuralNetworkMLP,875,VA Long Beach,1,0.5447761174509347,1
+NeuralNetworkMLP,381,Hungary,0,0.4061411094538867,0
+NeuralNetworkMLP,510,Hungary,1,0.4632981180432497,0
+NeuralNetworkMLP,449,Hungary,0,0.43590973744432215,0
+NeuralNetworkMLP,102,Cleveland,0,0.401504323403655,0
+NeuralNetworkMLP,776,VA Long Beach,1,0.5907188183759521,1
+NeuralNetworkMLP,60,Cleveland,0,0.5003083716622125,1
+NeuralNetworkMLP,816,VA Long Beach,1,0.593546895650868,1
+NeuralNetworkMLP,632,Switzerland,1,0.5506983285059412,1
+NeuralNetworkMLP,741,VA Long Beach,1,0.5447761174509347,1
+NeuralNetworkMLP,283,Cleveland,1,0.5722468271889022,1
+TunedRandomForest,515,Hungary,1,0.40439447784802846,0
+TunedRandomForest,826,VA Long Beach,1,0.8918433061047689,1
+TunedRandomForest,855,VA Long Beach,1,0.6540147750941192,1
+TunedRandomForest,805,VA Long Beach,1,0.8926899072981493,1
+TunedRandomForest,888,VA Long Beach,0,0.4832796412875331,0
+TunedRandomForest,484,Hungary,0,0.6779665352527978,1
+TunedRandomForest,274,Cleveland,0,0.5094158520361809,1
+TunedRandomForest,541,Hungary,1,0.9126617590904424,1
+TunedRandomForest,403,Hungary,0,0.1463684151736364,0
+TunedRandomForest,602,Switzerland,1,0.6323736399812839,1
+TunedRandomForest,279,Cleveland,1,0.32091596630648483,0
+TunedRandomForest,290,Cleveland,0,0.13773049585539793,0
+TunedRandomForest,242,Cleveland,0,0.04212595703007107,0
+TunedRandomForest,89,Cleveland,0,0.3179352538386549,0
+TunedRandomForest,718,Switzerland,0,0.7288024532038933,1
+TunedRandomForest,669,Switzerland,1,0.8441269283908697,1
+TunedRandomForest,95,Cleveland,0,0.17262439189738085,0
+TunedRandomForest,633,Switzerland,1,0.8399900079235917,1
+TunedRandomForest,195,Cleveland,0,0.30007454539510076,0
+TunedRandomForest,598,Switzerland,1,0.5456503002784657,1
+TunedRandomForest,728,VA Long Beach,0,0.8657685637420532,1
+TunedRandomForest,708,Switzerland,1,0.9148336229128118,1
+TunedRandomForest,331,Hungary,0,0.04378210531387032,0
+TunedRandomForest,483,Hungary,0,0.2639321891440726,0
+TunedRandomForest,273,Cleveland,1,0.9370504200230501,1
+TunedRandomForest,591,Hungary,1,0.8914230898260829,1
+TunedRandomForest,186,Cleveland,0,0.2189630512093259,0
+TunedRandomForest,629,Switzerland,1,0.8187754906192243,1
+TunedRandomForest,572,Hungary,1,0.3374826841295623,0
+TunedRandomForest,309,Hungary,0,0.04866083871946751,0
+TunedRandomForest,455,Hungary,0,0.2897710071490304,0
+TunedRandomForest,269,Cleveland,1,0.3966334879961622,0
+TunedRandomForest,468,Hungary,0,0.48232484717347845,0
+TunedRandomForest,896,VA Long Beach,0,0.5762904006621269,1
+TunedRandomForest,9,Cleveland,1,0.825484908294433,1
+TunedRandomForest,837,VA Long Beach,1,0.5844768440921742,1
+TunedRandomForest,827,VA Long Beach,1,0.8848945485448307,1
+TunedRandomForest,877,VA Long Beach,1,0.8458687649688424,1
+TunedRandomForest,306,Hungary,0,0.09309999862760834,0
+TunedRandomForest,575,Hungary,1,0.12071028015485535,0
+TunedRandomForest,626,Switzerland,1,0.8590221304376098,1
+TunedRandomForest,2,Cleveland,1,0.9097464233159129,1
+TunedRandomForest,581,Hungary,1,0.913964138012405,1
+TunedRandomForest,35,Cleveland,0,0.27348334611126596,0
+TunedRandomForest,769,VA Long Beach,1,0.8127308724252424,1
+TunedRandomForest,699,Switzerland,1,0.9327992615959235,1
+TunedRandomForest,266,Cleveland,1,0.9155912223616092,1
+TunedRandomForest,768,VA Long Beach,0,0.8030581080824253,1
+TunedRandomForest,640,Switzerland,1,0.629396692640688,1
+TunedRandomForest,21,Cleveland,0,0.6693246958928337,1
+TunedRandomForest,330,Hungary,0,0.4095509844639394,0
+TunedRandomForest,180,Cleveland,0,0.3285720569503854,0
+TunedRandomForest,270,Cleveland,0,0.22105626420183036,0
+TunedRandomForest,453,Hungary,0,0.12388608741855828,0
+TunedRandomForest,836,VA Long Beach,1,0.6928408769027975,1
+TunedRandomForest,433,Hungary,0,0.11950216672905656,0
+TunedRandomForest,644,Switzerland,1,0.9092393170645778,1
+TunedRandomForest,235,Cleveland,0,0.14770715861385134,0
+TunedRandomForest,459,Hungary,0,0.5804824733462598,1
+TunedRandomForest,292,Cleveland,0,0.07253455694974974,0
+TunedRandomForest,220,Cleveland,0,0.42170377149107496,0
+TunedRandomForest,878,VA Long Beach,1,0.7403065486589098,1
+TunedRandomForest,404,Hungary,0,0.363526772619098,0
+TunedRandomForest,267,Cleveland,1,0.7770291181308502,1
+TunedRandomForest,392,Hungary,0,0.11773738854982882,0
+TunedRandomForest,814,VA Long Beach,1,0.5768390096981372,1
+TunedRandomForest,532,Hungary,1,0.5676747487278777,1
+TunedRandomForest,610,Switzerland,1,0.7949716282458129,1
+TunedRandomForest,354,Hungary,0,0.11482278588481303,0
+TunedRandomForest,88,Cleveland,0,0.1635702079185992,0
+TunedRandomForest,34,Cleveland,0,0.6703333672767421,1
+TunedRandomForest,666,Switzerland,1,0.6345663062605464,1
+TunedRandomForest,383,Hungary,0,0.30951448429253625,0
+TunedRandomForest,206,Cleveland,1,0.8157598445321537,1
+TunedRandomForest,314,Hungary,0,0.12810093159022837,0
+TunedRandomForest,611,Switzerland,1,0.847807403728855,1
+TunedRandomForest,646,Switzerland,1,0.8263573414201895,1
+TunedRandomForest,819,VA Long Beach,1,0.769685999409163,1
+TunedRandomForest,884,VA Long Beach,1,0.7146184517248539,1
+TunedRandomForest,212,Cleveland,1,0.4844281378411636,0
+TunedRandomForest,754,VA Long Beach,1,0.563850966901747,1
+TunedRandomForest,698,Switzerland,1,0.7961653131767492,1
+TunedRandomForest,194,Cleveland,1,0.5401579870264874,1
+TunedRandomForest,328,Hungary,0,0.23042107082679283,0
+TunedRandomForest,56,Cleveland,1,0.929273166831058,1
+TunedRandomForest,82,Cleveland,0,0.3439991901385094,0
+TunedRandomForest,497,Hungary,1,0.8200184163031484,1
+TunedRandomForest,512,Hungary,1,0.8752859542529421,1
+TunedRandomForest,435,Hungary,0,0.08859645128153462,0
+TunedRandomForest,504,Hungary,1,0.8778381005142344,1
+TunedRandomForest,397,Hungary,0,0.14196026050349558,0
+TunedRandomForest,683,Switzerland,1,0.8482046879189151,1
+TunedRandomForest,327,Hungary,0,0.20221762575886865,0
+TunedRandomForest,446,Hungary,0,0.10139599390918363,0
+TunedRandomForest,341,Hungary,0,0.2903666496166846,0
+TunedRandomForest,765,VA Long Beach,1,0.6817751097091292,1
+TunedRandomForest,556,Hungary,1,0.9016989952931554,1
+TunedRandomForest,607,Switzerland,1,0.8667863765373469,1
+TunedRandomForest,132,Cleveland,0,0.462714840845755,0
+TunedRandomForest,39,Cleveland,1,0.9029709679257194,1
+TunedRandomForest,506,Hungary,1,0.6014245511276282,1
+TunedRandomForest,537,Hungary,1,0.8401300195193088,1
+TunedRandomForest,225,Cleveland,1,0.6505240188989775,1
+TunedRandomForest,148,Cleveland,0,0.168721529818803,0
+TunedRandomForest,574,Hungary,1,0.9050681895348508,1
+TunedRandomForest,599,Switzerland,1,0.733346365586504,1
+TunedRandomForest,914,VA Long Beach,1,0.7715068282177788,1
+TunedRandomForest,898,VA Long Beach,1,0.7253584759459679,1
+TunedRandomForest,90,Cleveland,0,0.14310702383205462,0
+TunedRandomForest,125,Cleveland,1,0.4538348326365,0
+TunedRandomForest,623,Switzerland,1,0.6654721731347203,1
+TunedRandomForest,772,VA Long Beach,0,0.3817924183481174,0
+TunedRandomForest,161,Cleveland,0,0.16332328128802764,0
+TunedRandomForest,735,VA Long Beach,1,0.8837845810272481,1
+TunedRandomForest,590,Hungary,1,0.8635811411751019,1
+TunedRandomForest,589,Hungary,1,0.6103509781105013,1
+TunedRandomForest,704,Switzerland,1,0.9126616033644963,1
+TunedRandomForest,409,Hungary,0,0.12388963233786318,0
+TunedRandomForest,375,Hungary,0,0.04770909730500333,0
+TunedRandomForest,634,Switzerland,1,0.8710742604940459,1
+TunedRandomForest,94,Cleveland,0,0.19028933957783012,0
+TunedRandomForest,753,VA Long Beach,1,0.900929368772086,1
+TunedRandomForest,329,Hungary,0,0.40270549941029704,0
+TunedRandomForest,820,VA Long Beach,0,0.7047561299859139,1
+TunedRandomForest,470,Hungary,0,0.298647244801163,0
+TunedRandomForest,110,Cleveland,1,0.6729333738383054,1
+TunedRandomForest,410,Hungary,0,0.23075581101969533,0
+TunedRandomForest,25,Cleveland,1,0.9338231495563317,1
+TunedRandomForest,841,VA Long Beach,1,0.6966225959225149,1
+TunedRandomForest,4,Cleveland,0,0.37403547544518057,0
+TunedRandomForest,357,Hungary,0,0.10663009495304922,0
+TunedRandomForest,166,Cleveland,0,0.7308547334076736,1
+TunedRandomForest,479,Hungary,0,0.327684243841969,0
+TunedRandomForest,448,Hungary,0,0.08270988932849184,0
+TunedRandomForest,287,Cleveland,1,0.8752361353950304,1
+TunedRandomForest,208,Cleveland,1,0.8868858100081635,1
+TunedRandomForest,499,Hungary,1,0.38299616987223134,0
+TunedRandomForest,352,Hungary,0,0.12262463510170184,0
+TunedRandomForest,821,VA Long Beach,1,0.48113502834556543,0
+TunedRandomForest,774,VA Long Beach,0,0.3348233303278434,0
+TunedRandomForest,714,Switzerland,1,0.8601168120194445,1
+TunedRandomForest,766,VA Long Beach,1,0.9042143250066217,1
+TunedRandomForest,911,VA Long Beach,0,0.4032465762130306,0
+TunedRandomForest,345,Hungary,0,0.10016254777570799,0
+TunedRandomForest,694,Switzerland,1,0.9037503804033956,1
+TunedRandomForest,860,VA Long Beach,1,0.6925700715822732,1
+TunedRandomForest,488,Hungary,0,0.7120114428790463,1
+TunedRandomForest,485,Hungary,0,0.4439154400894319,0
+TunedRandomForest,496,Hungary,1,0.3467172971872152,0
+TunedRandomForest,530,Hungary,1,0.7910016847324868,1
+TunedRandomForest,190,Cleveland,1,0.6437017758942409,1
+TunedRandomForest,163,Cleveland,0,0.16266430626417752,0
+TunedRandomForest,84,Cleveland,1,0.6147632834963802,1
+TunedRandomForest,919,VA Long Beach,0,0.6590910142308788,1
+TunedRandomForest,676,Switzerland,1,0.8150433351212132,1
+TunedRandomForest,570,Hungary,1,0.8916675661008027,1
+TunedRandomForest,399,Hungary,0,0.302839629135814,0
+TunedRandomForest,856,VA Long Beach,0,0.44589392560806096,0
+TunedRandomForest,544,Hungary,1,0.777606935993942,1
+TunedRandomForest,906,VA Long Beach,1,0.4639103695666867,0
+TunedRandomForest,391,Hungary,0,0.3213782099447031,0
+TunedRandomForest,677,Switzerland,1,0.8907878283428537,1
+TunedRandomForest,93,Cleveland,0,0.6498287827244833,1
+TunedRandomForest,416,Hungary,0,0.10850730431178031,0
+TunedRandomForest,285,Cleveland,1,0.6510288472158223,1
+TunedRandomForest,197,Cleveland,0,0.5317639935852168,1
+TunedRandomForest,716,Switzerland,1,0.8845982996524608,1
+TunedRandomForest,171,Cleveland,1,0.7419816651392468,1
+TunedRandomForest,413,Hungary,0,0.06025459053080449,0
+TunedRandomForest,155,Cleveland,1,0.9063557306843257,1
+TunedRandomForest,237,Cleveland,1,0.9119692033527985,1
+TunedRandomForest,443,Hungary,0,0.4609140246846756,0
+TunedRandomForest,109,Cleveland,1,0.9202693792303053,1
+TunedRandomForest,875,VA Long Beach,1,0.8897385367667249,1
+TunedRandomForest,381,Hungary,0,0.40124997927304656,0
+TunedRandomForest,510,Hungary,1,0.5033872512563851,1
+TunedRandomForest,449,Hungary,0,0.06408313968517004,0
+TunedRandomForest,102,Cleveland,0,0.2535991024223286,0
+TunedRandomForest,776,VA Long Beach,1,0.9269668553349665,1
+TunedRandomForest,60,Cleveland,0,0.6086341894320502,1
+TunedRandomForest,816,VA Long Beach,1,0.9072180556324344,1
+TunedRandomForest,632,Switzerland,1,0.777615276117115,1
+TunedRandomForest,741,VA Long Beach,1,0.8353292592556866,1
+TunedRandomForest,283,Cleveland,1,0.8827319289494904,1
